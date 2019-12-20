@@ -5,11 +5,11 @@ number_three = 7.89
 #print(number_two)
 #print(number_three)
 
-#a = 'ABC'
-#b = '123'
-#c = 123
-#print(a, b, c, 123)
-#print(type(a), type(b), type(c), type(123))
+a = 'ABC'
+b = 123
+c = 4.56
+print(a, b, c)
+print(type(a), type(b), type(c))
 
 d = True
 e = False
