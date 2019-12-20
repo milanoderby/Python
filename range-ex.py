@@ -10,4 +10,3 @@ print(phone_book)
 print(dir(random))
 
 #rd = random.choice(phone_book)
-#print(phone_book[rd])

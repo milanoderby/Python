@@ -25,6 +25,14 @@
   # -r 은 대략 recursive라는 의미
   ```
 
+- `uninstall` : python 모듈을 삭제하는 명령어
+
+- 주로 다운그레이드할 때, 사용한다.
+
+  ```python
+  $ pip uninstall [모듈명]
+  ```
+
   
 
 ### 2. `venv`
